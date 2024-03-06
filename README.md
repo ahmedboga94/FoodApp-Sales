@@ -1,7 +1,7 @@
 # FootApp Sales
 
 - The Project based on Firebase and no State Management methods is used
-- This app for sellers upload their products (Foods)
+- This app for sellers to upload their products(Foods)
 
 ## Getting Started
 
